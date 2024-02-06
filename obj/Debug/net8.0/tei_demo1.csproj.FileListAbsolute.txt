@@ -1,0 +1,17 @@
+/Users/pawel_fiderek/Desktop/Code/tei_demo1/obj/Debug/net8.0/tei_demo1.csproj.AssemblyReference.cache
+/Users/pawel_fiderek/Desktop/Code/tei_demo1/obj/Debug/net8.0/tei_demo1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pawel_fiderek/Desktop/Code/tei_demo1/obj/Debug/net8.0/tei_demo1.AssemblyInfoInputs.cache
+/Users/pawel_fiderek/Desktop/Code/tei_demo1/obj/Debug/net8.0/tei_demo1.AssemblyInfo.cs
+/Users/pawel_fiderek/Desktop/Code/tei_demo1/obj/Debug/net8.0/tei_demo1.csproj.CoreCompileInputs.cache
+/Users/pawel_fiderek/Desktop/Code/tei_demo1/bin/Debug/net8.0/tei_demo1
+/Users/pawel_fiderek/Desktop/Code/tei_demo1/bin/Debug/net8.0/tei_demo1.deps.json
+/Users/pawel_fiderek/Desktop/Code/tei_demo1/bin/Debug/net8.0/tei_demo1.runtimeconfig.json
+/Users/pawel_fiderek/Desktop/Code/tei_demo1/bin/Debug/net8.0/tei_demo1.dll
+/Users/pawel_fiderek/Desktop/Code/tei_demo1/bin/Debug/net8.0/tei_demo1.pdb
+/Users/pawel_fiderek/Desktop/Code/tei_demo1/bin/Debug/net8.0/MQTTnet.dll
+/Users/pawel_fiderek/Desktop/Code/tei_demo1/obj/Debug/net8.0/tei_demo1.csproj.CopyComplete
+/Users/pawel_fiderek/Desktop/Code/tei_demo1/obj/Debug/net8.0/tei_demo1.dll
+/Users/pawel_fiderek/Desktop/Code/tei_demo1/obj/Debug/net8.0/refint/tei_demo1.dll
+/Users/pawel_fiderek/Desktop/Code/tei_demo1/obj/Debug/net8.0/tei_demo1.pdb
+/Users/pawel_fiderek/Desktop/Code/tei_demo1/obj/Debug/net8.0/tei_demo1.genruntimeconfig.cache
+/Users/pawel_fiderek/Desktop/Code/tei_demo1/obj/Debug/net8.0/ref/tei_demo1.dll

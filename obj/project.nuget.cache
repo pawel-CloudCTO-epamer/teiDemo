@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wvR7+xnLEgyTa92h58KudeDA1FaM4f8qQ1DeI0iA/iNWrmZV5vi4uuKkgmuiGp5FwB4R4OuJnGWAuca2FfoQjA==",
+  "success": true,
+  "projectFilePath": "/Users/pawel_fiderek/Documents/GitHub/teiDemo/tei_demo1.csproj",
+  "expectedPackageFiles": [
+    "/Users/pawel_fiderek/.nuget/packages/mqttnet/4.3.3.952/mqttnet.4.3.3.952.nupkg.sha512"
+  ],
+  "logs": []
+}
