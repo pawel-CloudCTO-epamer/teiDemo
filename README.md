@@ -3,6 +3,8 @@ In order to generate self signed certificates and upload this into EventGrid ser
 
 Configure the service with topics, clients authentitication and authorisation, event grid topic and event hub subscription - remember about special role EventGrid Data Sender to your custm EG topic
 
+Also remember about the blueprint for your cert! the one embeded in the solution is: 7c571841d54effc578018358d357d2b05952c01761a434ec09206dd36c699331 
+
 Create Stream analytics service, add event hub input, streaming set output and set following:
 
 SELECT
